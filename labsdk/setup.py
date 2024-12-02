@@ -51,7 +51,7 @@ setuptools.setup(
         'typing-extensions',
         'PyYAML>=5.0',
         'pydantic',
-        'BentoML==1.0.22',
+        'BentoML==1.2.5',
         'attrs>=21.1.0',
         'Jinja2>=3.1.0'
     ],
